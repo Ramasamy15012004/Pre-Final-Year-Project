@@ -92,7 +92,7 @@ Install the following libraries from the Arduino Library Manager:
 ## 🔌 Circuit Diagram
 
 <p align="center">
-  <img src="images/Circuit Diagram.jpg" width="850">
+  <img src="Images/Circuit Diagram.jpg" width="850">
 </p>
 
 ---
@@ -100,7 +100,7 @@ Install the following libraries from the Arduino Library Manager:
 ## 🧩 System Block Diagram
 
 <p align="center">
-  <img src="images/Block Diagram.png" width="850">
+  <img src="Images/Block Diagram.png" width="850">
 </p>
 
 ---
