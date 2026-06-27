@@ -92,7 +92,7 @@ Install the following libraries from the Arduino Library Manager:
 ## 🔌 Circuit Diagram
 
 <p align="center">
-  <img src="images/circuit_diagram.png" width="850">
+  <img src="images/circuit_diagram.jpg" width="850">
 </p>
 
 ---
@@ -111,13 +111,12 @@ Install the following libraries from the Arduino Library Manager:
 Obstacle-Avoiding-Robot/
 │
 ├── Arduino_Code/
-│   └── Obstacle_Avoiding_Robot.ino
+│   └── Obstacle_Avoiding_Robot_Firmware.ino
 │
 ├── images/
-│   ├── circuit_diagram.png
+│   ├── circuit_diagram.jpg
 │   ├── block_diagram.png
-│   ├── robot.jpg
-│   └── demo.gif
+│   └── robot.jpg
 │
 ├── README.md
 └── LICENSE
